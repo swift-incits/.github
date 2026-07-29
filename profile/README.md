@@ -8,13 +8,11 @@ One package per specification, named `swift-incits-<number>`. Each package imple
 
 > Swift INCITS is an independent open-source project. It is not affiliated with, endorsed by, or sponsored by INCITS.
 
-## Coverage
+## Repositories
 
-| Package | Specification |
-|---|---|
-| [swift-incits-4-1986](https://github.com/swift-incits/swift-incits-4-1986) | US-ASCII |
-
-Every repository description carries the specification's full title; the [repositories tab](https://github.com/orgs/swift-incits/repositories) lists them all.
+Every repository description carries the specification's full title. Browse the complete
+collection in the [repositories tab](https://github.com/orgs/swift-incits/repositories), or
+use GitHub's repository search to filter it by topic, language, or other repository metadata.
 
 ## Status
 
